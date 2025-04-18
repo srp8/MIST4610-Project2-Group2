@@ -47,8 +47,8 @@ generated from Tableau.
 
 
 
-<img width="939" alt="mist_proj2b" src="https://github.com/user-attachments/assets/8b6f8f13-beff-493d-a5f6-0c1168472406" />
 
+<img width="793" alt="mist_proj2c" src="https://github.com/user-attachments/assets/e7ede1c6-5956-4b18-96f1-62363dc22fda" />
 
 
 
