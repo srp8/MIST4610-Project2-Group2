@@ -9,16 +9,6 @@
 3. Patel, Siddh [@srp8](https://github.com/srp8)
 4. Singh, Saachi [@Saachi715](https://github.com/Saachi715)
 
-# MIST4610-Project2-Group2
-
-Team name and members:
-
-Group 2:
-Siddh Patel: https://github.com/srp8
-Isabella Park: https://github.com/jp09478
-Saachi Singh: https://github.com/saachi715
-Emily Clark: https://github.com/emc33728
-
 Describing your dataset and what data it contains:
 Where was it obtained, what are the dimensions of it (rows and columns), what are the various
 columns, data types, etc. Describe it in sufficient detail so that an uninformed reader would
