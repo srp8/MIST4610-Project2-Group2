@@ -20,7 +20,7 @@ The 2 questions the team generated and why they are interesting and important: i
 
 ### Question 1: 
 Is there a notable geographic pattern or concentration for missing persons cases in the U.S.?
-<img width="800" alt="mist_proj2a" src="https://github.com/user-attachments/assets/ff7760fe-11bd-4448-9f2b-606285ff3515" />
+
 
 ### Question 2:
 Are there demographic factors significantly correlated with longer periods of individuals remaining unidentified or missing?
@@ -34,5 +34,10 @@ they, describe the purpose and how they were accomplished.
 Analyze and visualize the results of your analysis and describe the implications of your analysis.
 Please provide any citations if required as well as supporting visualizations and analysis
 generated from Tableau.
+
+### Question 1:
+<img width="800" alt="mist_proj2a" src="https://github.com/user-attachments/assets/ff7760fe-11bd-4448-9f2b-606285ff3515" />
+
+### Question 2
 
 
