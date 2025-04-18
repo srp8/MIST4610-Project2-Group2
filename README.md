@@ -16,7 +16,7 @@ columns, data types, etc. Describe it in sufficient detail so that an uninformed
 understand the dataset.
 
 ## Questions:
-The 2 questions the team generated and why they are interesting and important:
+The 2 questions the team generated and why they are interesting and important: importance can be evaluated and conveyed in a variety of ways including, social, economic, cultural and other factors. Also indicate how they are tied to the data set or sets being used
 
 ### Question 1: 
 Is there a notable geographic pattern or concentration for missing persons cases in the U.S.?
