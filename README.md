@@ -21,6 +21,7 @@ Is there a notable geographic pattern or concentration for missing persons cases
 Are there demographic factors significantly correlated with longer periods of individuals remaining unidentified or missing?
 
 
+<img width="800" alt="mist_proj2a" src="https://github.com/user-attachments/assets/ff7760fe-11bd-4448-9f2b-606285ff3515" />
 
 ## Manipulatons: 
 The manipulations applied to the data set as part of the analysis:
