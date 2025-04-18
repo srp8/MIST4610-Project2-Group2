@@ -25,7 +25,7 @@ Is there a notable geographic pattern or concentration for missing persons cases
 ### Question 2:
 Are there demographic factors significantly correlated with longer periods of individuals remaining unidentified or missing?
 
-## Manipulatons: 
+## Manipulations: 
 The manipulations applied to the data set as part of the analysis:
 Were there any manipulations or calculations that needed to be performed on the data, what were
 they, describe the purpose and how they were accomplished.
