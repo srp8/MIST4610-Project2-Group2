@@ -45,6 +45,7 @@ generated from Tableau.
 
 
 
+<img width="939" alt="mist_proj2b" src="https://github.com/user-attachments/assets/8b6f8f13-beff-493d-a5f6-0c1168472406" />
 
 
 
