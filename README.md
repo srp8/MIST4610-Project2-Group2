@@ -31,9 +31,7 @@ Q2: Are there demographic factors significantly correlated with longer periods o
 Investigating the role of demographic factors—such as age, gender, race, and socioeconomic background—in the duration individuals remain missing or unidentified provides critical insights into systemic disparities and vulnerabilities. This analysis helps uncover patterns in case outcomes, revealing which groups are disproportionately affected and why certain cases may remain unresolved for longer periods. By understanding these dynamics, policymakers and investigators can develop targeted interventions, enhance equity in resource distribution, and implement strategies to improve case resolution rates for at-risk populations.
 
 ## Manipulations: 
-The manipulations applied to the data set as part of the analysis:
-Were there any manipulations or calculations that needed to be performed on the data, what were
-they, describe the purpose and how they were accomplished.
+In order to answer the second question, the data set had to be manipulated. Originally, not much of the data was quantitative; Tableau provided the only non-categorical measures based on location variables like 'State'. Yet the date strings could be turned into numbers. 
 
 ## Analysis and Results:
 Analyze and visualize the results of your analysis and describe the implications of your analysis.
