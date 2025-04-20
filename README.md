@@ -50,8 +50,8 @@ generated from Tableau.
 
 <img width="793" alt="mist_proj2c" src="https://github.com/user-attachments/assets/e7ede1c6-5956-4b18-96f1-62363dc22fda" />
 
+This bar chart shows the average number of days since a case was last updated, broken down by Race and Ethnicity—serving as a proxy for how long individuals remain missing or unidentified. We can clearly see some disparities here. For instance, Asian and Hawaiian individuals show the longest average durations before their cases are updated, hovering around 2,000 days, which suggests they may be missing for significantly longer periods. On the other hand, Hispanic and Black individuals have much shorter unresolved periods, closer to 500 days, indicating relatively faster updates or case resolutions.
 
+This difference is important because it suggests that not all demographic groups are receiving equal attention or resources when it comes to resolving missing persons cases. These disparities may stem from a variety of factors—such as systemic bias, lower media visibility for certain communities, cultural or language barriers, or differences in how cases are reported and followed up on. This insight is critical, as it highlights real-world inequalities in how missing persons cases are handled. Ideally, findings like these can guide meaningful policy changes, improve outreach in underserved communities, and ensure a more equitable distribution of investigative resources.
 
-
-
-
+Ultimately, the goal is to make sure that every case, regardless of someone’s background, gets the attention and urgency it deserves.
