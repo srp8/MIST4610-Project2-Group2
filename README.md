@@ -18,13 +18,17 @@ The second dataset on missing persons cases in the United States focuses on demo
 
 ## Questions:
 
-Q1: Is there a notable geographic pattern or concentration for missing persons cases in the U.S.?
+*Question 1: Is there a notable geographic pattern or concentration for missing persons cases in the U.S.?*
 
-Analyzing the geographic distribution of missing persons cases is essential for identifying regional hotspots, trends, and spatial patterns. By visualizing these patterns, stakeholders can gain a deeper understanding of where incidents are most prevalent, allowing for more effective allocation of law enforcement resources, community outreach efforts, and preventive measures. This approach not only highlights areas with higher risks but also supports the development of tailored strategies to address localized factors contributing to disappearances.
+This question helps us identify where support systems may be failing and highlights larger social and economic issues that could be contributing factors. Areas with higher concentrations of missing person cases may indicate underfunded police departments, limited search-and-rescue teams, or slower emergency responses, all of which can seriously affect how quickly and effectively cases are handled. Additionally this can be connected to the fact that the regions are struggling with poverty, housing instability, or trafficking routesn. Areas facing these challenges could likely be the cause for high disappearance rates indicating this isn’t an isolated problem and these communities are being impacted by higher risks that need to be addressed. By identifying patterns, we can increase funding for local law enforcement,and reallocate resources to areas in need. Also expanding access to local programs and services that can strengthen community support and help prevent future disappearances.
 
-Q2: Are there demographic factors significantly correlated with longer periods of individuals remaining unidentified or missing?
+The dataset supports geographic pattern analysis by including specific details such as the city and state where individuals were last seen, making it possible to count cases by region, map trends, and identify areas that may require more attention or resources.
 
-Investigating the role of demographic factors—such as age, gender, race, and socioeconomic background—in the duration individuals remain missing or unidentified provides critical insights into systemic disparities and vulnerabilities. This analysis helps uncover patterns in case outcomes, revealing which groups are disproportionately affected and why certain cases may remain unresolved for longer periods. By understanding these dynamics, policymakers and investigators can develop targeted interventions, enhance equity in resource distribution, and implement strategies to improve case resolution rates for at-risk populations.
+*Question 2:Is race/ethnicity significantly correlated with how long someone remains missing or unidentified?*
+
+This question brings attention to possible racial disparities in how missing person cases are treated and highlights how cultural and institutional barriers can delay critical help. Studies have shown that missing persons of color often receive less media coverage and slower responses from authorities, and if these groups remain missing for longer periods, it suggests underlying racial bias. In additiona, some families may be hesitant to report cases due to language barriers, fear of immigration consequences, or mistrust in the justice system. These barriers can delay investigations and reduce the chances of early resolution. Figuring out which groups are most affected can lead to policies that ensure all cases receive equal urgency and attention. Moverover, it can lead to the creation of tools and programs that will make reporting processes easier and build trust between law enforcement and marginalized communities can help families feel safer and more supported.
+
+The dataset supports this type of demographic analysis because it includes fields for race, ethnicity, and case timelines such as the date last seen and updated. This makes it possible to directly compare how long different groups remain missing and to identify potenital patterns of inequality.
 
 ## Manipulations: 
 In order to answer the second question, the data set had to be manipulated. Originally, not much of the data was quantitative; Tableau provided the only non-categorical measures based on location variables like 'State'. Yet the date strings could be turned into numbers. Taking a copy of DLC and DateModified, we adjusted the data type to make two quantitative measures of time. Then, subtracting DLC from DateModified, we calculated the amount of time since each case was last updated. This is the field we used to plot demographic data against average time spent on cases. 
@@ -33,15 +37,12 @@ In order to answer the second question, the data set had to be manipulated. Orig
 
 The visualization to answer the first question included the longtitude and latitude tableau-calculated fields to create a map. States were laid on the map from the dataset in colors. A count of the case numbers is represented by the circles, and the size of the circles shows the higher counts of cases. At first glace, Texas, California, and Florida appear as the states with the highest number of cases. A closer look shows that the cities in those states closest to the coasts and boarders hold the majority of the cases. One explanation for the pattern of cases could be more accessible trafficking routes. This , however, does not explain the larger circle of cases in Tennessee far from boarders and coasts. Another more likely explanation is simply larger populations; the more people exist in one area, the more easily it is that a few get lost or want to be lost. It is also possible that cases are more likely to be reported in the lower regions of those states compared to New York or Pennsylvania where larger populations are a wider variety of cultures that may hesitate to report a missing person out of shame or pride. One final explanation is that the areas with the larger number of cases are also areas in which poverty is more prevelant. Cases are more likely to be reported and unsolved when there aren't enough resources for after school programs and safe infrastructure for walking at night. Law enforcement, as well, isn't as equipped in low-income areas to handle the amount of missing persons, so more cases pile up.
  
-  Based on the visualization of the places with the highest number of cases, a couple of measures can be taken to prevent the numbers from building. First, resources from states with a lower case count could allocate their available units for missing persons to the cities with more outstanding cases. Preventative measures should also be taken such as promoting awareness to not walk alone and to find safer routes. After school programs to keep kids occupied and supervised while parents work might also lower the amount of new cases. For cases closest to coasts, lookignoutside the U.S. more than in could prove useful for finding missing persons. 
+Based on the visualization of the places with the highest number of cases, a couple of measures can be taken to prevent the numbers from building. First, resources from states with a lower case count could allocate their available units for missing persons to the cities with more outstanding cases. Preventative measures should also be taken such as promoting awareness to not walk alone and to find safer routes. After school programs to keep kids occupied and supervised while parents work might also lower the amount of new cases. For cases closest to coasts, lookignoutside the U.S. more than in could prove useful for finding missing persons. 
 
-### Question 1:
+*Question 1:*
 <img width="800" alt="mist_proj2a" src="https://github.com/user-attachments/assets/ff7760fe-11bd-4448-9f2b-606285ff3515" />
 
-### Question 2
-
-
-
+*Question 2:*
 
 <img width="793" alt="mist_proj2c" src="https://github.com/user-attachments/assets/e7ede1c6-5956-4b18-96f1-62363dc22fda" />
 
